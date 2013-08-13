@@ -1,0 +1,15 @@
+Copyright (2010) by Charles Severance
+
+Creative Commons Attribition 3.0 license ("BY" variant)
+
+http://creativecommons.org/licenses/by/3.0/
+
+The project maintainer, John Alexander, wishes to thank Charles Severance for authoring the original slides and placing them under the
+Creative Commons Attribition 3.0 license ("BY" variant). The original slides are located at: www.pythonlearn.com
+
+This derivative work is also under the Creative Commons Attribution 3.0 license ("BY" variant) and I welcome feedback and suggestions for further improvement of this courseware.
+
+I also encourage anyone to create derivative works of these slides if they wish, as long as the slides and their changes are 
+also put under the Creative Commons License, and the original author is attributed.
+
+The goal is to provide the best possible materials to teach computer programming, with Python as an excellent language for students to learn.
