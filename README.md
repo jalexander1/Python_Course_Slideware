@@ -5,8 +5,8 @@
 
 Version: *1.1*
 <br />
-Author: *Charles Severance*
-Forked by: *John Alexander*
+Original Author: *Charles Severance*
+Derivative work by: *John Alexander*
 
 <!-- SUMMARY -->
 
