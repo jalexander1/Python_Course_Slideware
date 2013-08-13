@@ -6,6 +6,7 @@
 Version: *1.1*
 <br />
 Original Author: *Charles Severance*
+
 Derivative work by: *John Alexander*
 
 <!-- SUMMARY -->
@@ -33,9 +34,8 @@ This fork (derivative work) of this Python courseware was done with the followin
 
 
 ##List of Files
-<!-- list below here all libraries, scripts, other files provided with this tool. 
 
-* syllabus.pdf --  A PDF document with recommendations on how to use this courseware to teach a Python course 
+
 * PythonCourse_01_Intro.ppt
 * PythonCourse_02_Expressions.ppt
 * PythonCourse_03_Conditional.ppt
@@ -44,9 +44,7 @@ This fork (derivative work) of this Python courseware was done with the followin
 * PythonCourse_06_Strings.ppt
 * PythonCourse_07_Files.ppt
 * PythonCourse_08_Lists.ppt
-* PythonCourse_09_Dictionaries.ppt
-* PythonCourse_10_Tuples.ppt
-* README.txt -- This ReadMe file.
+* README.md -- This ReadMe file.
 * LICENSE.txt
 
 ##Requirements and Dependencies
