@@ -44,13 +44,16 @@ This fork (derivative work) of this Python courseware was done with the followin
 * PythonCourse_06_Strings.ppt
 * PythonCourse_07_Files.ppt
 * PythonCourse_08_Lists.ppt
+* PythonCourse_09_Dictionaries.ppt
+* PythonCourse_10_tuples.ppt
+* PythonCourse_17_Pickle_and_anydbm.ppt
 * README.md -- This ReadMe file.
 * LICENSE.txt
 
 ##Requirements and Dependencies
 
 * Any software capable of reading and displaying Microsoft PPT files
-* Note: This courseware has been specifically used and tested with: Microsoft PowerPoint 2013 and OpenOffice Impress 3.4.1
+* Note: This courseware has been specifically used and tested with: Microsoft PowerPoint 2013, PowerPoint 2016, and OpenOffice Impress 3.4.1
 
 
 ##Installation 
