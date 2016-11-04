@@ -3,7 +3,7 @@
 
 #Python Course
 
-Version: *1.1*
+Version: *1.2*
 <br />
 Original Author: *Charles Severance*
 
@@ -76,7 +76,7 @@ in assistance on testing/using these slides on an Apple Mac computer, and on Lin
 
 ##Contact
 
-*John Alexander* - - *jalexander@cloudpassage.com*
+*John Alexander* - - *jalex333@yahoo.com*
 
 ##Resources
 
